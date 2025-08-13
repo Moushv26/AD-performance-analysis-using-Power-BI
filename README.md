@@ -1,5 +1,4 @@
-**📊 AD Performance Analysis using Power BI
-**
+📊 AD Performance Analysis using Power BI
 
 📌 Overview
 The Ad Performance Analysis Dashboard is a powerful and interactive solution built in Power BI to analyze and optimize multi-platform advertising campaigns.
